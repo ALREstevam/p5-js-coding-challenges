@@ -6,6 +6,8 @@ This repository contains some coding challenges where the visual part was done u
 
 ## Bubblesort's visualization
 
+**Page:** [Visual bubblesort](https://alrestevam.github.io/p5-js-coding-challenges/bubblesort.html)
+
 ![bubble.mp4](README.assets/bubble.mp4.gif)
 
 On each page load and after the execution is finished, the site will choose random data from some distribution, maybe shuffle it, then it will choose some basis color to color the bars, the smaller ones are colored differently.
@@ -18,6 +20,8 @@ One parameter can be set via query params:
 
 ## Genetic Algorithm on the Traveling Salesman Problem
 
+**Page:** [Genetic Algorithm on the Traveling Salesman Problem](https://alrestevam.github.io/p5-js-coding-challenges/genetic_tsp.html)
+
 ![image-20200608192542640](README.assets/image-20200608192542640.png)
 
 ![genetic2.mp4](README.assets/genetic2.mp4.gif)
@@ -28,5 +32,5 @@ Some parameters can be set via query params.
 * `seed`: the seed for the random number generator - it will affect the position of the cities on the map
 * `pop`: the top population used on the solving of the problem
 
-
+You can also click anywhere on the page to pause or resume the execution.
 
